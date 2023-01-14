@@ -2,6 +2,8 @@
 
 An unofficial cookiecutter template to easily adapt [Ascender](https://github.com/cvpaperchallenge/Ascender) for your project.
 
+**NOTE**: This cookiecutter might not reflect the latest updates in [Ascender](https://github.com/cvpaperchallenge/Ascender).
+
 ## Prerequisite
 
 * [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/index.html)
