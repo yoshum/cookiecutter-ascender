@@ -3,7 +3,7 @@
   "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
   "package_name": "{{ cookiecutter.project_name|lower|replace(' ', '_')|replace('-', '_') }}",
   "author": "Your Name",
-  "email": "your-name@nec.com",
+  "email": "your-name@example.com",
   "description": "A short description of {{ cookiecutter.project_name }}.",
   "version": "0.0.1",
   "_copy_without_render": [ ".github/workflows/lint-and-test.yaml" ]
